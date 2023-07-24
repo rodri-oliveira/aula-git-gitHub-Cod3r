@@ -1,2 +1,0 @@
-# projeto para aprender git
-
